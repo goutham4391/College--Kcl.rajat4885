@@ -1,0 +1,12 @@
+{
+  "name": "King's College London website",
+  "short_name": "kcl",
+  "theme_color": "#e22319",
+  "background_color": "#e22319",
+  "display": "minimal-ui",
+  "orientation": "portrait",
+  "Scope": "/",
+  "start_url": "/",
+  "icons": [],
+  "splash_pages": null
+}

@@ -1,0 +1,36 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+sc-static.net	TRUE	/scevent.min.js	FALSE	1999999999	X-AB	0d6e407936704bd380072f5891d28b0e
+sc-static.net	TRUE	/	FALSE	1999999999	SameSite	None
+tags.srv.stackadapt.com	TRUE	/	FALSE	1999999999	sa-user-id	s%3A0-be0ff720-e77e-43ff-5f16-97568ac64f0f.GTpK7x6kTBSFmcD5k03Zj5E%2BUJ%2FiJYt96gfp%2BGm7OQQ
+srv.stackadapt.com	TRUE	/	FALSE	1999999999	sa-user-id-v2	s%3Avg_3IOd-Q_9fFpdWisZPDzEksWM.sOIf0JmRevmSz4fe4tvoxLzM7mgUd4HUzvyibTOp5XQ
+tags.srv.stackadapt.com	TRUE	/	FALSE	1999999999	SameSite	None
+.bing.com	TRUE	/	FALSE	1999999999	MUID	23364A65006B6F3F3E72582C01F06E45
+c.bing.com	TRUE	/	FALSE	1999999999	Priority	High
+c.bing.com	TRUE	/	FALSE	1999999999	MR	0
+c.office.com	TRUE	/	FALSE	1999999999	SM	C
+.office.com	TRUE	/	FALSE	1999999999	MUID	23364A65006B6F3F3E72582C01F06E45
+c.office.com	TRUE	/	FALSE	1999999999	Priority	High
+c.office.com	TRUE	/	FALSE	1999999999	MR	0
+c.office.com	TRUE	/	FALSE	1999999999	ANONCHK	0
+c.office.com	TRUE	/	FALSE	1999999999	SameSite	None
+.microsoft.com	TRUE	/	FALSE	1999999999	MC1	GUID=1146bbeeba5c4701a54f411b16a6fc8f&HASH=1146&LV=202210&V=4&LU=1666780831629
+.microsoft.com	TRUE	/	FALSE	1999999999	MS0	3d66ac56b56141babfaac1e40db29a85
+web.vortex.data.microsoft.com	TRUE	/	FALSE	1999999999	SameSite	None
+opmuk.tfaforms.net	TRUE	/	FALSE	1999999999	AWSALB	mjPKAlkmLlC6QKjrnoSs2ffck3VapZOJiahSCfybzncRIKn80GvumeWWxAQUWBpiWXXuwqA/87mw4cfnNE2XbJwsbCem6fie+LHegdXi8zRPPjOIGx9/s3YVwohu
+opmuk.tfaforms.net	TRUE	/	FALSE	1999999999	AWSALBCORS	mjPKAlkmLlC6QKjrnoSs2ffck3VapZOJiahSCfybzncRIKn80GvumeWWxAQUWBpiWXXuwqA/87mw4cfnNE2XbJwsbCem6fie+LHegdXi8zRPPjOIGx9/s3YVwohu
+opmuk.tfaforms.net	TRUE	/	FALSE	1999999999	SameSite	None
+c.bing.com	TRUE	/	FALSE	1999999999	SRM_B	23364A65006B6F3F3E72582C01F06E45
+c.bing.com	TRUE	/	FALSE	1999999999	SameSite	None
+c.clarity.ms	TRUE	/	FALSE	1999999999	SM	C
+.clarity.ms	TRUE	/	FALSE	1999999999	MUID	23364A65006B6F3F3E72582C01F06E45
+c.clarity.ms	TRUE	/	FALSE	1999999999	Priority	High
+c.clarity.ms	TRUE	/	FALSE	1999999999	MR	0
+c.clarity.ms	TRUE	/	FALSE	1999999999	ANONCHK	0
+c.clarity.ms	TRUE	/	FALSE	1999999999	SameSite	None
+live.tourdash.com	TRUE	/	FALSE	1999999999	AWSALB	Bcg7l8aL97hRl3lHAjyEfmyb/Al8jDon/JesW5yIfSQ1D+ZvTSKl7CH/vjR/U13NJkiwSGwJXqoLqBnd8Kp+HwtDcHA9X/cvhpI8zzmljyr+2A6Lj1MSiHPyM54B
+live.tourdash.com	TRUE	/	FALSE	1999999999	AWSALBCORS	Bcg7l8aL97hRl3lHAjyEfmyb/Al8jDon/JesW5yIfSQ1D+ZvTSKl7CH/vjR/U13NJkiwSGwJXqoLqBnd8Kp+HwtDcHA9X/cvhpI8zzmljyr+2A6Lj1MSiHPyM54B
+live.tourdash.com	TRUE	/	FALSE	1999999999	SameSite	None
+tiktok.com	TRUE	/	FALSE	1999999999	_ttp	2GfYA5mn5YDhvejlpdhzamJRgC7
+analytics.tiktok.com	TRUE	/	FALSE	1999999999	SameSite	None
+
